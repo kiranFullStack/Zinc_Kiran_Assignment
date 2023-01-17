@@ -1,3 +1,5 @@
+// COPY FROM HERE ⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+
 const queries = [
   ['Q', ['Ford']],
   ['Q', ['Car']],
@@ -47,6 +49,23 @@ function printOutput(queries, pages) {
 }
 
 printOutput(queries, pages)
+
+// END COPY HERE AND PASTE IT IN YOUR BROWSER CONSOLE👈🏻⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Test case for matchStrength
 test('matchStrength returns correct strength for query and page', () => {
